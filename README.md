@@ -21,4 +21,3 @@ To start a guided code tour, you can follow these steps:
 3. Click on Start Tour.
 
 
-blahblah
