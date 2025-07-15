@@ -20,4 +20,3 @@ To start a guided code tour, you can follow these steps:
 2. Right click on the Project Walkthrough tour.
 3. Click on Start Tour.
 
-
